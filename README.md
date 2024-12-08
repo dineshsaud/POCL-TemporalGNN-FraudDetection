@@ -14,7 +14,6 @@ We introduced the **TemporalGNN** model, a graph-based neural network with tempo
 To run the Jupyter Notebook for this project, ensure the following dependencies are installed in your Python environment.
 
 ### Required Packages
-
 #### Jupyter Notebook
 Install Jupyter Notebook to execute the `.ipynb` file:
 ```bash
