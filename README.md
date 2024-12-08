@@ -1,7 +1,8 @@
 # Implementation of the Code
 
 This project is based on the research paper [**Pretrained Online Contrastive Learning Model for Fraud Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/30259). 
-2) Code is implemented in the repo : https://github.com/AI4Risk/POCL
+
+Code is implemented in the repo : https://github.com/AI4Risk/POCL
 The implementation reproduces and extends the original methodology to enhance its effectiveness in detecting fraudulent medical insurance claims.
 
 ## Main Contribution
