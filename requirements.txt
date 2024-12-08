@@ -1,0 +1,14 @@
+notebook
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+scikit-learn
+ipykernel
